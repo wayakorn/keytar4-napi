@@ -1,6 +1,6 @@
 {
   "main": "./lib/keytar.js",
-  "name": "keytar4-napi",
+  "name": "ktar4",
   "description": "Bindings to native Mac/Linux/Windows password APIs",
   "version": "4.1.1",
   "license": "MIT",
